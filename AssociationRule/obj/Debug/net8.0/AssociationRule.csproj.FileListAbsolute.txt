@@ -1,0 +1,14 @@
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\bin\Debug\net8.0\AssociationRule.exe
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\bin\Debug\net8.0\AssociationRule.deps.json
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\bin\Debug\net8.0\AssociationRule.runtimeconfig.json
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\bin\Debug\net8.0\AssociationRule.dll
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\bin\Debug\net8.0\AssociationRule.pdb
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.AssemblyInfoInputs.cache
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.AssemblyInfo.cs
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.csproj.CoreCompileInputs.cache
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.dll
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\refint\AssociationRule.dll
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.pdb
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\AssociationRule.genruntimeconfig.cache
+C:\Users\rangbar.a\source\repos\AssociationRule\AssociationRule\obj\Debug\net8.0\ref\AssociationRule.dll
